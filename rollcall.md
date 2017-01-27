@@ -8,6 +8,10 @@ Name, GitHub username, and (optionally) Contact Info
 
 _This repository is public, so you may not want to include your residence or phone number._
 
+* Gary Zhang
+ * GitHub: teslashark
+ * Email: zhangh@whitman.edu
+
 * Benjamin Limpich
   * GitHub: blimpich
   * Email: limpicbc@whitman.edu
@@ -20,15 +24,15 @@ _This repository is public, so you may not want to include your residence or pho
   * GitHub: janetlndavis
   * Email: davisj@whitman.edu
   * Homepage: http://cs.whitman.edu/~davisj
-  
+
 * Emma Twersky
   * GitHub: emmatwersky
   * Email: twersker@whitman.edu
-  
+
 * Quinn Salkind
   * GitHub: qsalkind
   * Email: salkinqg@whitman.edu
-  
+
 * Tyler Maule
   * GitHub: maumaj
   * Email: mauletj@whitman.edu
@@ -40,4 +44,3 @@ _This repository is public, so you may not want to include your residence or pho
 * Fake Student
   * GitHub: janet-oea
   * This is a test!
-
