@@ -1,16 +1,16 @@
+
 Written in [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown).
 
-Rollcall
-========
+Rollcal
 
 Name, GitHub username, and (optionally) Contact Info
 ----------------------------------------------------
 
 _This repository is public, so you may not want to include your residence or phone number._
 
-* Richard Farman
-  * GitHub: farmanrl
-  * Email: farmanrl@whitman.edu
+* Gary Zhang
+ * GitHub: teslashark
+ * Email: zhangh@whitman.edu
 
 * Benjamin Limpich
   * GitHub: blimpich
@@ -24,15 +24,15 @@ _This repository is public, so you may not want to include your residence or pho
   * GitHub: janetlndavis
   * Email: davisj@whitman.edu
   * Homepage: http://cs.whitman.edu/~davisj
-  
+
 * Emma Twersky
   * GitHub: emmatwersky
   * Email: twersker@whitman.edu
-  
+
 * Quinn Salkind
   * GitHub: qsalkind
   * Email: salkinqg@whitman.edu
-  
+
 * Tyler Maule
   * GitHub: maumaj
   * Email: mauletj@whitman.edu
@@ -41,14 +41,6 @@ _This repository is public, so you may not want to include your residence or pho
   * Github: ChaoticLizard
   * Email: hsuer@whitman.edu
 
-* Kaylin Jarriel
-  * GitHub: jarrieks
-  * Email: jarrieks@whitman.edu
-
 * Fake Student
   * GitHub: janet-oea
   * This is a test!
-
-* Jingyuan Wang
-  * GitHub:JingyW
-  * Email: wangj2@whitman.edu
