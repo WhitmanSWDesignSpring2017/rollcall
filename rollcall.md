@@ -1,3 +1,4 @@
+
 Written in [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown).
 
 Rollcall
@@ -11,7 +12,15 @@ _This repository is public, so you may not want to include your residence or pho
 * Pablo Fernandez
   * GitHub: pablofernandezcom
   * Email: *
-  
+
+* Gary Zhang
+  * GitHub: teslashark
+  * Email:zhangh@whitman.edu
+ 
+* Ben Adams
+  * GitHub: badams19
+  * Email: adamsbm@whitman.edu
+
 * Richard Farman
   * GitHub: farmanrl
   * Email: farmanrl@whitman.edu
@@ -56,3 +65,23 @@ _This repository is public, so you may not want to include your residence or pho
 * Jingyuan Wang
   * GitHub:JingyW
   * Email: wangj2@whitman.edu
+  
+* Zachariah Turner
+  * Github: [Eventhisone](https://github.com/Eventhisone)
+  * Email: [turnerzd@whitman.edu](mailto:turnerzd@whitman.edu)
+
+* Rajesh Narayan
+    * GitHub : therajesh
+    * Email : narayar@whitman.edu
+  
+* Kai McConnell
+  * GitHub:Kaipie5
+  * Email: mcconnka@whitman.edu
+
+* Cooper Lazar
+  * GitHub: lazarcl
+  * Email: lazarcl@whitman.edu
+
+* Niki Lonberg
+  * GitHub: nlonberg
+  * Email: nlonberg@gmail.com
