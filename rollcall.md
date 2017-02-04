@@ -9,6 +9,11 @@ Name, GitHub username, and (optionally) Contact Info
 
 _This repository is public, so you may not want to include your residence or phone number._
 
+
+* Pablo Fernandez
+  * GitHub: pablofernandezcom
+  * Email: *
+
 * Gary Zhang
   * GitHub: teslashark
   * Email:zhangh@whitman.edu
